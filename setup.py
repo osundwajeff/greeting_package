@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="greeting_package",
-    version="0.1.0",
+    version="0.1.1",
     author="Jeff Osundwa",
     author_email="mulamajeff@tuta.io",
     description="A package for generating greeting messages",
