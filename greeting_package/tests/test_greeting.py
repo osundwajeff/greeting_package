@@ -1,4 +1,4 @@
-from greeting-package.greeting import say_hello
+from greeting_package.greeting import say_hello
 
 
 def test_say_hello():

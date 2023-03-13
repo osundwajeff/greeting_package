@@ -1,1 +1,1 @@
-from .greetings import say_hello
+from .greeting import say_hello
